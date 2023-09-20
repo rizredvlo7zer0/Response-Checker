@@ -13,7 +13,7 @@ pkg install python && pkg install git && pkg install python-pip
 ```
 - Clone Repository
 ```
-git clone https://github.com/wannazid/Response-Checker
+git clone https://github.com/rizredvlo7zer0/Response-Checker
 ```
 - Masuk Repository
 ```
